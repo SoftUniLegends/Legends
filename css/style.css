@@ -42,18 +42,18 @@ li a {
 }
 
 li:hover a {
-    background: #19c589;
+   background-image: url('../images/header-hover-bg.png');
 }
 
 li:hover ul a {
-    background: #f3f3f3;
+    background-image: url('../images/header-hover-bg.png');
     color: #2f3036;
     height: 40px;
     line-height: 40px;
 }
 
 li:hover ul a:hover {
-    background: #19c589;
+    background-image: url('../images/header-hover-bg.png');
     color: #fff;
 }
 
@@ -78,6 +78,6 @@ li:hover ul a:hover {
 
 #header-bg {
   position: fixed;
-  top: 30px;
+  top: 10px;
   left: 160px;
 }
