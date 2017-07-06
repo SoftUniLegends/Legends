@@ -16,7 +16,7 @@ html {
 nav {
     position: fixed;
     top: 200px;
-    left:300px;
+    left:270px;
 }
 
 ul {
@@ -27,7 +27,8 @@ ul {
 
 li {
     display:inline-block;
-    margin-right: 1px;
+    margin: 0 50px;
+
 }
 
 li a {
@@ -80,4 +81,19 @@ li:hover ul a:hover {
   position: fixed;
   top: 10px;
   left: 160px;
+}
+
+
+main {
+  background-color: white;
+  width: 900px;
+}
+
+.basic-info {
+  width: 800px;
+}
+
+.main-game-img {
+  width: 200px;
+  height: 150px;
 }
