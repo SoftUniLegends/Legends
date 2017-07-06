@@ -98,26 +98,22 @@ Trainers:
       As his reputation grew, so did the demands placed upon him. His clients wanted more rare and dangerous software products, and they wanted them sooner.
 
 
-NOT RDY
+
 7.Bojidar Gevechanov
   Role: Trainer
   Race: C#
   Champion: Azir
   Description: the Emperor of the Sands
-  Line: "Shurima! Your emperor has returned!"
+  Line: "SoftUni! Your code wizard has returned!"
   Info:
-  Bojidar walked the gold-paved Emperor’s Way. The immense statues of Shurima’s earliest rulers – his ancestors – watched his progress.
-  The soft, shadowy light of predawn seeped through his city. The brightest stars still shone overhead, though they would soon be snuffed out by the rising sun.
-  The night sky was not as Azir remembered it; the stars and the constellations were misaligned. Millennia had passed.
-  With every step, Azir’s heavy staff of office struck a lonely note, echoing through the capital’s empty streets.
-  When last he had walked this path, an honor guard of 10,000 elite warriors had marched in his wake, and the cheers of the crowd had shaken the city.
+  Bojidar walked the gold-paved Emperor’s Web.
+  The soft, shadowy light of the new visual studio seeped through his website. The brightest stars still shone overhead, though they would soon be snuffed out by the rising sun.
+  The dark web was not as Bojidar remembered it; the stars and the constellations were misaligned.
+  When last he had coded this path, an honor guard of 100 elite programmers had marched in his wake, and the cheers of the crowd had shaken the city.
   It was to have been his moment of glory – yet it had been stolen from him.
-  Now, it was a city of ghosts. What had become of his people?
-  With an imperious gesture, Azir commanded the sands beside the roadway to rise, creating living statues.
-  This was a vision of the past, the echoes of Shurima given form.
-  The sand figures looked forward, heads tilted toward the immense Sun Disk hanging above the Dais of Ascension half a league ahead.
-  It hung there still, declaring the glory and power of Azir’s empire, though no one remained to see it.
-  The daughter of Shurima who awakened him, she who bore his lineage, was gone. He sensed her out in the desert. Blood bound them together.
+  Now, it was a website of ghosts. What had become of his people?
+  With an imperious gesture, Bojidar commanded his people beside the roadway to rise, creating living statues, populating the website.
+
 
 
 
