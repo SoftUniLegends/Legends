@@ -14,8 +14,8 @@ html {
 
 
 nav {
-    position: fixed;
-    top: 200px;
+    position: relative;
+    top: -80px;
     left:270px;
 }
 
@@ -78,8 +78,8 @@ li:hover ul a:hover {
 }
 
 #header-bg {
-  position: fixed;
-  top: 10px;
+  position: relative;
+  top: 1px;
   left: 160px;
 }
 
