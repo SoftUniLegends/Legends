@@ -12,27 +12,17 @@ html {
 }
 
 
-
-
-
 main {
-  background-image: url(../images/main-backgr-blur.jpg);
-  background-repeat: repeat-y;
+  background-image: url(../images/vintage_paper-1.jpg);
+  background-repeat: repeat;
   width: 950px;
   position: relative;
-  left: 281px;
+  left: 268px;
   top: -70px;
-  z-index: -1;
+  z-index: 0;
+  padding: 30px 20px;
 }
 
-.basic-info {
-  width: 800px;
-}
-
-.main-game-img {
-  width: 200px;
-  height: 150px;
-}
 
 main {
   border: 15px solid transparent;
@@ -41,6 +31,15 @@ main {
    border-image-slice: 20;
 }
 
+
+.basic-info {
+  width: 100%;
+}
+
+.main-game-img {
+  width: 200px;
+  height: 150px;
+}
 #binary {
   width: 100px;
   height: 100px;
