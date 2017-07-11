@@ -1,0 +1,18 @@
+
+@media screen and (max-width : 760px){
+    nav {
+        position: static;
+    }
+
+    li {
+        margin-bottom: 1px;
+    }
+
+    li a {
+        display: block;
+    }
+
+    ul li, li a {
+        width: 100%;
+    }
+}
