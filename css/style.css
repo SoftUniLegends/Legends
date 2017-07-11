@@ -16,8 +16,13 @@ html {
 
 
 main {
-  background-color: white;
-  width: 900px;
+  background-image: url(../images/main-backgr-blur.jpg);
+  background-repeat: repeat-y;
+  width: 950px;
+  position: relative;
+  left: 281px;
+  top: -70px;
+  z-index: -1;
 }
 
 .basic-info {
@@ -27,4 +32,16 @@ main {
 .main-game-img {
   width: 200px;
   height: 150px;
+}
+
+main {
+  border: 15px solid transparent;
+   border-image-source: url(../images/frame.png);
+   border-image-repeat: stretch;
+   border-image-slice: 20;
+}
+
+#binary {
+  width: 100px;
+  height: 100px;
 }
