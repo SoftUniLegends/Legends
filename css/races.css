@@ -1,0 +1,45 @@
+.races-img {
+    width: 200px;
+    height: 180px;
+}
+
+.box {
+    box-sizing: border-box;
+    width: 45%;
+    float: left;
+}
+
+.races-info-container {
+    overflow: hidden;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.races-info-container div{
+    margin: 20px 0;
+    padding: 5px;
+}
+
+.races-info-container  h2 {
+    margin-bottom: 15px;
+}
+
+.races-info-container article::after{
+    content: url("../images/separator2.png");
+    transform: scale(.5);
+}
+
+.races-info-container article:last-child::after{
+    content: '';
+}
+
+.races-info-container div.box img {
+    float: right;
+    margin-top: 45px;
+}
+
+.races-info-container div.box p {
+    text-align: justify;
+    font-size: 18px;
+}
+
