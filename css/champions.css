@@ -1,0 +1,31 @@
+.champion-img img {
+    width: 80px;
+    height: 80px;
+    border-radius: 55px;
+    border: 1px solid #257372;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.champion-img img:hover {
+    opacity: 0.7;
+}
+
+.champion-name {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.champion-name a {
+    text-decoration: none;
+    color: #257372;
+}
+
+.champion-list {
+
+}
+
+.champion-list li {
+    width: 200px;
+    margin: 10px;
+}
