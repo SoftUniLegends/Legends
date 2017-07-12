@@ -14,10 +14,9 @@ ul {
 li {
     display:inline-block;
     margin: 0 50px;
-
 }
 
-li a {
+li a.nav {
     display:block;
     min-width:140px;
     height: 50px;
@@ -29,7 +28,7 @@ li a {
 
 }
 
-li:hover a {
+li:hover a.nav {
    background-image: url('../images/header-hover-bg.png');
 }
 

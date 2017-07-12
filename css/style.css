@@ -55,6 +55,7 @@ main {
   height: 250px;
   border: 1px solid lightblue;
   border-radius: 15px 15px 15px 5px;
+  margin-left: 20px;
 }
 
 .right {
@@ -75,14 +76,15 @@ hr {
   margin-top: 50px
 }
 
-.basic-info p:first-of-type::first-letter {
-  font-size: 150%;
+.big-letter p:first-of-type::first-letter {
+  font-size: 200%;
+  font-family: 'Cookie', serif;
 }
 
 
 #languages-vertical {
     position: absolute;
-    opacity: 0.5;
+    opacity: 0.7;
     top: 315px;
     left: 100px;
     width: 200px;
@@ -92,3 +94,5 @@ hr {
 #languages-vertical:hover {
   opacity: 1;
 }
+
+#battle-main
