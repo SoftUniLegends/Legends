@@ -2,7 +2,7 @@
     width: 80px;
     height: 80px;
     border-radius: 55px;
-    border: 1px solid #257372;
+    border: 1px solid #73110c;
     display: block;
     margin-left: auto;
     margin-right: auto
@@ -18,7 +18,7 @@
 
 .champion-name a {
     text-decoration: none;
-    color: #257372;
+    color: #73110c;
 }
 
 .champion-list {
