@@ -107,7 +107,7 @@ hr {
     top: 375px;
     left: 117px;
     width: 150px;
-    z-index: 1;
+    z-index: -1;
 }
 
 #races-tech-img-right {
@@ -116,5 +116,5 @@ hr {
     top: 375px;
     right: 128px;
     width: 150px;
-    z-index: 1;
+    z-index: -1;
 }
