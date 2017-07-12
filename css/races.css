@@ -34,6 +34,8 @@
 .races-info-container article::after{
     content: url("../images/separator2.png");
     transform: scale(.5);
+    position:relative;
+    left: 20px;
 }
 
 .races-info-container article:last-child::after{
