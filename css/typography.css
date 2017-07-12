@@ -6,4 +6,20 @@ body, p {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Rasa', serif;
+  line-height: 40px;
+  padding: 20px;
+}
+
+p {
+  line-height: 25px;
+  margin: 20px;
+  font-size: 17px;
+}
+
+article {
+  margin: 20px;
+}
+
+.basic-info {
+  padding: 10px;
 }
