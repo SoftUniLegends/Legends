@@ -1,6 +1,8 @@
 .races-img {
-    width: 200px;
-    height: 170px;
+    max-width: 200px;
+    min-width: 150px;
+    max-height: 200px;
+    min-height: 150px;
 }
 
 .box {
@@ -51,5 +53,11 @@
 .races-info-container div.box p {
     text-align: justify;
     font-size: 17px;
+}
+
+#races-languages {
+    height: 120px;
+    display: block;
+    margin: 0 auto;
 }
 
