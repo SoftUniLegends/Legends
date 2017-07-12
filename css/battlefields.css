@@ -13,14 +13,16 @@ html {
 
 
 
-
 .carousel {
     position: relative;
     box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
     margin-top: 26px;
     width: 60%;
     left: 290px;
-    top: -100px
+    top: -69px;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    background-color: lightblue;
 }
 
 .carousel-inner {
@@ -57,7 +59,7 @@ html {
     height: 40px;
     line-height: 35px;
     position: absolute;
-    top: 50%;
+    top: 225px;
     -webkit-transform: translate(0, -50%);
     cursor: pointer;
     -ms-transform: translate(0, -50%);
@@ -82,7 +84,9 @@ html {
 
 #carousel-1:checked ~ .control-1,
 #carousel-2:checked ~ .control-2,
-#carousel-3:checked ~ .control-3 {
+#carousel-3:checked ~ .control-3,
+#carousel-4:checked ~ .control-4,
+#carousel-5:checked ~ .control-5 {
     display: block;
 }
 
@@ -91,7 +95,7 @@ html {
     margin: 0;
     padding: 0;
     position: absolute;
-    bottom: 2%;
+    top: 340px;
     left: 0;
     right: 0;
     text-align: center;
@@ -116,7 +120,10 @@ html {
 
 #carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,
 #carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,
-#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet {
+#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet,
+#carousel-4:checked ~ .control-4 ~ .carousel-indicators li:nth-child(4) .carousel-bullet,
+#carousel-5:checked ~ .control-5 ~ .carousel-indicators li:nth-child(5) .carousel-bullet  {
+
     color: #428bca;
 }
 
