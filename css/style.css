@@ -4,7 +4,7 @@
 }
 
 html {
-    background: url(../images/bg-default.jpg) no-repeat center center fixed;
+  background: url(../images/bg-default.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -21,6 +21,8 @@ main {
   top: -70px;
   z-index: 0;
   padding: 30px 20px;
+  display: block;
+  overflow: auto;
 }
 
 
@@ -32,15 +34,61 @@ main {
 }
 
 
+/* index */
 .basic-info {
   width: 100%;
+  margin-top: -20px;
 }
 
 .main-game-img {
-  width: 200px;
-  height: 150px;
+  width: 350px;
+  height: 230px;
+  margin-right: 50px;
+  border: 1px solid lightblue;
+  border-radius: 20px;
 }
-#binary {
-  width: 100px;
-  height: 100px;
+
+
+
+#battle-main {
+  width: 400px;
+  height: 250px;
+  border: 1px solid lightblue;
+  border-radius: 15px 15px 15px 5px;
+}
+
+.right {
+  float: right;
+  display: inline-block;
+}
+
+.left {
+  float: left;
+}
+
+#main-header {
+  font-size: 40px;
+}
+
+hr {
+  clear:both;
+  margin-top: 50px
+}
+
+.basic-info p:first-of-type::first-letter {
+  font-size: 150%;
+}
+
+
+#languages-vertical {
+    position: absolute;
+    opacity: 0.5;
+    top: 315px;
+    left: 100px;
+    width: 200px;
+    z-index: 1;
+}
+
+#languages-vertical:hover {
+  opacity: 1;
 }
