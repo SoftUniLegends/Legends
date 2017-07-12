@@ -5,7 +5,8 @@
     border: 1px solid #73110c;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    transition: all .2s ease-in-out;
 }
 .champion-img img:hover {
     opacity: 0.7;
