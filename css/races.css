@@ -20,6 +20,14 @@
     padding: 5px;
 }
 
+.races-info-container div.box.img{
+    width: 30%;
+}
+
+.races-info-container div.box.text{
+    width: 70%;
+}
+
 .races-info-container  h2 {
     margin-bottom: 15px;
 }
@@ -35,8 +43,8 @@
 
 .races-info-container div.box img {
     position: relative;
-    left: 100px;
-    margin-top: 45px;
+    left: 10px;
+    top: 100px;
 }
 
 .races-info-container div.box p {
