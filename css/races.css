@@ -55,6 +55,10 @@
     font-size: 17px;
 }
 
+.races-info-container div.box p::first-letter {
+    font-size: 150%;
+}
+
 #races-languages {
     height: 120px;
     display: block;
