@@ -32,6 +32,10 @@ li:hover a.nav {
    background-image: url('../images/header-hover-bg.png');
 }
 
+li a.nav:active {
+    font-weight: 200%;
+    background-image: url('../images/header-hover-bg-light.png');
+}
 
 #header-bg {
   position: relative;
