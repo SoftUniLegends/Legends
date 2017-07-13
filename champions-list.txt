@@ -118,7 +118,6 @@ Trainers:
 
 
 
-NOT RDY
 8.Ivaylo Jelev
   Role: Trainer
   Race:
@@ -126,50 +125,47 @@ NOT RDY
   Description: the Shield of Valoran
   Line:   "That glimmer of hope you see, that's me."
   Info:
-Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty.
-Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to
-discover a higher calling among the stars. Imbued with the might of ancient Targon, the Shield of Valoran now stands ever vigilant against
-the insidious corruption of the Void.
+Ivaylo is the Aspect of the Protector, wielding incredible power as guardian of life, love, and beauty.
+Shamed by a dereliction of duty and exiled from his hometown, Ivaylo ascended ASP.NET to find redemption, only to
+discover a higher calling among the stars. Imbued with the might of ancient Ivo, the Pro Coder now stands ever vigilant against
+the boilerplate code.
 
 
-NOT RDY
+
 9.Ivan Ivanov
   Role: Trainer
   Race: Java
   Champion: Yasuo
   Description: the Unforgiven
-  Line: "Death is like the wind - always by my side."
+  Line: "Code is like the wind - always by my side."
   Info:
-  Yasuo is a man of resolve, an agile swordsman who wields the wind itself to cut down his foes.
-  This once-proud warrior has been disgraced by a false accusation and forced into a desperate fight for survival.
-  With the world turned against him, he will do everything in his power to bring the guilty to justice and restore his honor.
+  Ivan is a man of resolve, a strong javaman who wields the code itself to cut down his foes.
+  This once-proud code has been disgraced by a infinite loop and forced into a desperate lonely code for survival.
+  With the web turned against him, he will do everything in his power to bring the guilty to justice and restore his honor.
 
-  Formerly a brilliant pupil at a renowned Ionian sword school, Yasuo was the only student in a generation to master the legendary wind technique.
-  Many believed he was destined to become a great hero. However, his fate was changed forever when Noxus invaded. Yasuo was charged with guarding an Ionian Elder,
-  but, foolishly believing his blade alone could make the difference, he left his post to join the fray. By the time he returned, the Elder had been slain.
+  Formerly a brilliant pupil at a renowned SoftUni code school, Ivan was the only student in a generation to master the legendary code technique.
+  Many believed he was destined to become a great hero. However, his fate was changed forever when web Worms invided. Ivan was charged with guarding an Ionian Elder,
+  but, foolishly believing his code alone could make the difference, he left his post to join the fray. By the time he returned,
+  the web Worm had taken all the web.
 
-  Disgraced, Yasuo willingly turned himself in, prepared to pay for his failure with his life. He was shocked,
-  however, to find himself accused not just of dereliction, but of the murder itself. Though confused and racked with guilt, he knew the assassin would go
-  unpunished if he did not act. Yasuo raised his sword against the school and fought his way free, knowing his treason would turn all of Ionia against him.
-  Left truly alone for the first time in his life, he set out to find the Elder's real killer.
+  Ivan raised his java code against the Worm and fought his way free.
 
 
-NOT RDY
-10.Viktor Kostadinov
+
+
+10.Svetlin Galov
    Role: Trainer
-   Race: JavaScript
-   Champion: Viktor
+   Race: C#
+   Champion: Talon
    Description: the Machine Herald
-   Line:  "Join the glorious evolution."
+   Line:  "Live and die by my Code."
+
    Info:
-   Early in life, Viktor discovered his passion for computer science and tech invention, particularly in the field of mechanical automation.
-   He attended Zaun's prestigious College of Techmaturgy and led the team that constructed Blitzcrank - a scientific breakthrough that he expected to
-   vault him to the top of his profession. Unfortunately his triumph was usurped by Professor Stanwick,
-   who stole credit for developing Blitzcrank's sentience and later used Viktor's research to revive Urgot.
-   Viktor's appeals for justice fell on deaf ears, and he sank into a deep depression.
-   He withdrew from the College and barricaded himself in his private laboratory, cutting all human ties.
-   There, in secret, he conceived a project for which nobody else could claim credit.
-   Desiring both to revolutionize his field and to eliminate the jealous human emotions which festered inside him, he engineered parts to replace and improve his own body.
+   Svetlin's earliest memories are the darkness of underground computer clubs.
+   He remembers no family, warmth, or kindness. Kept alive only by his quick keyboard writing, Svetlin scraped out a living
+   in the seedy underbelly of Sofia. His mastery of the binary code quickly marked him as a threat, and SoftUni guilds sent assassins
+   to him with a demand: join their ranks or be killed.
+   Svetlin chose life, on the condition that his service was to good code practices alone.
 
 
 
@@ -177,7 +173,6 @@ NOT RDY
 
 
 
-NOT RDY
 11.Ivaylo Kenov
    Role: Trainer
    Race: JavaScript
@@ -185,22 +180,20 @@ NOT RDY
    Description: the Chronokeeper
    Line: "I knew you would code that... "
    Info:
-   In the wastelands of Urtistan, there was once a great city. It perished long ago in a terrible Rune War, like most of the lands below the Great Barrier.
-   Nevertheless, one man survived: a sorcerer named Zilean. Being obsessed with time, it was only fitting that he dwelled in the city's Clock Tower.
-   As the havoc of the war neared his home, Zilean experimented with powerful temporal magic to divine all possible futures, hoping to discover a peaceful solution.
-   But Zilean's enchantments affected his perception of the passage of time, and he was in a contemplative stasis when Urtistan was set upon by an entire phalanx
-   of dark summoner-knights of unknown affiliation. By the time he realized his error, Urtistan was nothing more than smoldering debris. The summoners who were
-   responsible for its destruction had wisely left the Clock Tower unharmed, both to avoid drawing Zilean's attention and to torment him for his oversight.
+   In the codelands of Bulgaria, there was once a great city. It perished long ago in a terrible Code War, like most of the lands below the
+   Internet Barrier.
+   Nevertheless, one man survived: a sorcerer named Kenov. Being obsessed with code, it was only fitting that he dwelled in the city's code school -
+   SoftUni.
 
-Zilean barely had time to grieve the momentous loss before he learned that his dangerous research had a cruel side effect: chrono-displasia.
-This mystical disease granted him immortality, but detached his consciousness from its anchor in the present time. He now mentally drifts through time,
-from any point he has already lived to the present, unable to impact the events which unfold. The most torturous aspect of this curse is that Zilean
-sometimes experiences Urtistan as it once was and the rest of the time resides in its lonely ruins. Only the powerful summoning magic employed by members of the
-League of Legends has been able to treat this condition, and Zilean has joined in hopes of finding a cure, and thereafter a way to save his people.
+Kenov barely had time to grieve the momentous loss before he learned that his dangerous code had a cruel side effect: chrono-displasia.
+This mystical disease granted his code immortality.  The most torturous aspect of this curse is that Kenov
+sometimes experiences Sofia as it once was and the rest of the time resides in its lonely ruins.
+Only the powerful summoning code employed by members of the
+SoftUni has been able to treat this condition, and Kenov has joined in hopes of finding a cure, and thereafter a way to save his code.
 
 
 
-NOT RDY
+
 12.Angel Georgiev
    Role: Trainer
    Race:
@@ -208,46 +201,31 @@ NOT RDY
    Description: the Card Master
    Line: "Lady luck is smilin'."
    Info:
-   Twisted Fate, the Card Master“It's not gambling if you can't lose...”
-Twisted Fate is an infamous card sharp and swindler who has gambled and charmed his way across much of the known world,
-earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger.
-In every possible way, Twisted Fate always has an ace up his sleeve.
-Born to the nomadic river-folk of the Serpentine, the boy was taught the magic of the cards at an early age and soon learned what it was to be hated.
-Tolerated for the exotic goods they peddled, but shunned for their strange ways, the boy's people found only short welcomes wherever they berthed their
-colorful river barques. His elders claimed this was the way of the world, but their refusal to fight back against this prejudice always rankled the young boy's sensibilities.
-
-When men who'd lost their fortunes in the gambling tents of the river folk returned in the dead of night to exact vengeance,
-they came bearing cudgels and emboldened by cheap rotgut. They beat the river folk back to their boats with curses and blows,
-eventually turning their weapons upon the boy's family. The boy could take no more and fought back, driving the men away with swift blows from their own clubs.
-Proud of what he had done, the boy was stunned when his people turned their back on him. Retaliation went against the code of the river,
-and there could be only one punishment. Exile. His whole world falling apart around him, the boy watched helplessly as the barques of his
-folk sailed away without him, leaving him with nothing, alone for the first time in his life.
+   Angel once said 'It's not gambling if you can't lose...''
+Angel is an infamous card sharp and swindler who has gambled and charmed his way across much of the known world,
+earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously,
+greeting each day with a mocking smile and an insouciant swagger.
+In every possible way, Angel always has an ace up his sleeve.
+Born to the nomadic river-folk of the Serpentine, the boy was taught the magic of the cards at an early age.
+His elders claimed this was the way of the world, but their refusal to fight back against this prejudice always rankled
+the young boy's code.
 
 
-
-NOT RDY
 13.Alisa Terzieva
    Role: Trainer
    Race: JavaScript
    Champion: Ashe
    Description: the Frost Archer
-   Line: "All the world on one arrow."
+   Line: "All the code on one arrow."
    Info:
-   With each arrow she fires from her ancient ice-enchanted bow, Ashe proves she is a master archer.
-   She chooses each target carefully, waits for the right moment, and then strikes with power and precision.
-   It is with this same vision and focus that she pursues her goal of uniting the tribes of the Freljord and forging them into a mighty nation.
+   With each variable she fires from her high-tech ice-enchanted computer, Alisa proves she is a master coder.
+   She chooses each name carefully, waits for the right moment, and then strikes with power and precision.
+   It is with this same vision and focus that she pursues her goal of unit testing all her code.
 
-   As a child, Ashe was always a dreamer. She marveled at the colossal, abandoned fortresses of her ancestors,
-   and spent hours by the fire listening to tales of the Freljord's fabled champions. Most of all she loved the legend of Avarosa,
-   the renowned Queen of the once magnificent and united Freljord. Though her mother chided her foolishness,
-   Ashe swore one day she would join the scattered and warlike tribes of the tundra. She knew in her heart that if her people would stand
+   As a child, Alisa was always a dreamer. She marveled at the colossal, abandoned fortresses of her ancestors,
+   and spent hours by the fire listening to tales about brave Web devs. She swore one day she would join the scattered and warlike
+   tribes of the SoftUni. She knew in her heart that if her people would stand
    together once more, they would reach greatness again.
-
-   When Ashe was only fifteen, her mother was killed while commanding the tribe on a brash raid.
-   Suddenly thrust into the role of leader, Ashe made the difficult decision to follow her childhood vision instead of seeking
-   the revenge she craved. She spoke passionately against her tribe's demand for retribution, declaring the time had come to put
-   blood feuds aside and broker a lasting peace. Some of her warriors questioned her fitness to rule and soon hatched a treasonous plot to kill the young leader.
-
 
 
 14.Simona Simeonova
@@ -257,16 +235,15 @@ NOT RDY
    Description: Fallen Angel
    Line: "We'll bring them pain."
    Info:
-    There is a world far away populated by graceful and beautiful winged beings gifted with immortality, where an ancient conflict still rages.
+    There is a world far away populated by graceful and beautiful winged beings gifted with great coding skills,
+    where an ancient conflict still rages.
     Like so many code conflicts, this war split worlds.
-    One side proclaimed themselves as beings of perfect order and justice, fighting to unite the world wide web under their law and strong central governance.
-    Those that fought against them saw their kin as tyrants, creatures incapable of seeing the larger view, who would sacrifice individuality and freedom for the illusion of efficiency and safety.
-    Simona was one who fought against what she perceived as the tyranny of her kind, and for that she was branded ''fallen.''
-    Simona was not innocent, having plumbed forgotten ways to gather forbidden might to become a powerful mistress of the black web arts.
+    One side proclaimed themselves as beings of perfect order and justice, fighting to unite the world wide web under
+    their law and strong central governance.
+    Those that fought against them saw their kin as tyrants, creatures incapable of seeing the larger view,
+    who would sacrifice individuality and freedom for the illusion of efficiency and safety.
+    Simona was one who code against what she perceived as the tyranny of her kind, and for that she was branded ''fallen.''
     This goal was driven by her obsession to defeat the general of the opposition's army.
-
-
-
 
 
 
@@ -291,7 +268,7 @@ Students:
    SoftUni to help track down a mysterious outlaw who had begun committing high-profile heists.
 
 
-NOT RDY
+
 16. Boryana Baeva
     Role: Student
     Race: PHP
@@ -299,14 +276,10 @@ NOT RDY
     Description: the Bounty Hunter
     Line: "Fortune doesn't favor fools."
     Info:
-    Beauty and danger: There are few who can match Miss Fortune in either.
+    Beauty and danger: There are few who can match Boryana in either.
     One of SoftUni's most infamous code hunters, she built her legend code skills upon a swathe of high-tech computers.
-    The booming echoes of her twin keyboards in the port city’s reeking wharfs and scavenger shanties are sure signs of another warrant from the Bounty Board being settled.
+    The booming echoes of her twin keyboards in the port city’s reeking wharfs and scavenger shanties are sure
+    signs of another warrant from the Bounty Board being settled.
 
-    Young Boryana helped her mother in the forge, filing wheel locks, calibrating trigger pulls, or casting custom pistol shot.
-    Her mother’s skill in crafting firearms was legendary, and her bespoke handguns were to be found in the collections of many a wealthy noble.
-    But ofttimes, they were desired by those with more meager means and darker hearts.
-    One who desired such a weapon was an up-and-coming reaver of Bilgewater called Gangplank.
-    Cocksure and certain of his power, he demanded Sarah’s mother fashion a pair of pistols the likes of which no other man possessed.
-    A reluctant deal was struck, and a year later to the day, Gangplank returned for his weapons. He had donned a red scarf face-mask and had no
-    intention of paying for the guns – he was there to take them by force.
+    Young Boryana helped her mother in the forge, filing wheel locks, calibrating trigger pulls, or casting custom code shot.
+    Her skill in crafting frameworks was legendary, and her bespoke methods were to be found in the collections of many a wealthy noble.
