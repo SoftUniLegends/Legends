@@ -96,9 +96,7 @@ hr {
   opacity: 1;
 }
 
-img.hover:hover {
-  border: 2px solid brown;
-}
+
 
 
 
@@ -136,4 +134,26 @@ img.hover:hover {
     right: 128px;
     width: 150px;
     z-index: -1;
+}
+
+
+
+
+
+
+
+/*champions*/
+
+#animated-champion {
+    position: fixed;
+    width: auto;
+    height: 30%;
+    top: 67%;
+    left: 5%;
+    z-index: 2;
+}
+
+
+.champion-img {
+  border-image: url(../images/frame-round.png) 30 stretch;
 }
