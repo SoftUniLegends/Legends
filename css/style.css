@@ -28,7 +28,7 @@ main {
 
 
 main {
-  border: 15px solid transparent;
+   border: 15px solid transparent;
    border-image-source: url(../images/frame.png);
    border-image-repeat: stretch;
    border-image-slice: 20;
