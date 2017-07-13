@@ -188,3 +188,46 @@ footer img {
 .champion-img {
   border-image: url(../images/frame-round.png) 30 stretch;
 }
+
+
+
+
+
+/* champions details*/
+
+nav.nav-champ-nav-details {
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+
+ul.ul-champ-nav-details {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: lightblue;
+    border: 1px solid darkblue;
+}
+
+li.li-champ-nav-details a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li.li-champ-nav-details {
+    text-align: center;
+    border-bottom: 1px solid darkblue;
+}
+
+li.li-champ-nav-details:last-child {
+    border-bottom: none;
+}
+
+
+li.li-champ-nav-details a:hover:not(.active) {
+    background-color: #db943d;
+    color: white;
+}
