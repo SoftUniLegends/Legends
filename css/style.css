@@ -96,6 +96,24 @@ hr {
   opacity: 1;
 }
 
+img.hover:hover {
+  border: 2px solid brown;
+}
+
+
+
+
+#languages-vertical {
+  animation: mymove 3s;
+  animation-fill-mode: forwards;
+
+}
+
+@keyframes mymove {
+    from {top: 0px;}
+    to {top: 315px;}
+}
+
 
 
 
