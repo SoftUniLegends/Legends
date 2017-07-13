@@ -10,20 +10,23 @@ html {
   -o-background-size: cover;
   background-size: cover;
   overflow-x: hidden;
+
 }
 
 
 main {
   background-image: url(../images/vintage_paper-1.jpg);
   background-repeat: repeat;
-  width: 905px;
+  width: 905px;;
+  height: auto;
   position: relative;
   left: 268px;
   top: -70px;
   z-index: 0;
   padding: 30px 20px;
-  display: block;
+  display: inline-block;;
   overflow: auto;
+  margin: 0;
 }
 
 
@@ -40,6 +43,8 @@ main {
   width: 100%;
   margin-top: -20px;
 }
+
+
 
 .main-game-img {
   width: 350px;
