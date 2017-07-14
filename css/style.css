@@ -20,7 +20,8 @@ main {
   width: 905px;;
   height: auto;
   position: relative;
-  left: 268px;
+  /*left: 268px;*/
+  left: 18%;
   top: -70px;
   z-index: 0;
   padding: 30px 20px;
