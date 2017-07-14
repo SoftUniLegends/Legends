@@ -18,7 +18,8 @@
 @media screen and (max-width: 780px) {
 
   html {
-
+    background-image: none;
+    background-color: black;
   }
 
   body {
