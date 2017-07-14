@@ -1,16 +1,5 @@
 
-@media screen and (max-width : 760px){
 
-}
-
-
-
-
-/* ----------- Non-Retina Screens ----------- */
-@media screen
-  and (max-width: 1600px) {
-
-}
 
 
 
@@ -88,8 +77,6 @@
     background: linear-gradient(to bottom, #0a2b44 0%,#163870 11%,#163870 11%,#196c96 28%,#196c96 68%,#196c96 73%,#14486b 89%,#163870 99%,#163870 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a2b44', endColorstr='#163870',GradientType=0 ); /* IE6-9 */
 
-    background-repeat: no-repeat;
-    background-position: center;
   }
 
   .main-game-img {
@@ -99,8 +86,7 @@
     margin-bottom: 2%;
     border: 1px solid lightblue;
     border-radius: 20px;
-}
-
+  }
 
 
   footer {
@@ -115,9 +101,9 @@
     bottom: 0;
   }
 
-footer div {
-  display: none;
-}
+  footer div {
+    display: none;
+  }
 
 
   footer img {
@@ -138,61 +124,87 @@ footer div {
 
   .races-info-container div.box.text {
     width: 100%;
-}
+  }
 
-.races-info-container div.box {
+  .races-info-container div.box {
+      margin: 0;
+      padding: 0;
+    }
+
+  .races-info-container article::after {
+    display: none;
+
+  }
+
+
+
+  #races-languages {
+      height: 81px;
+      display: block;
+      margin: 0 auto;
+  }
+
+
+  #animated-champion {
+      position: fixed;
+      width: auto;
+      height: 15%;
+      top: 17%;
+      left: 89%;
+      z-index: 2;
+  }
+
+  .champion-list li {
+      width: 33%;
+      margin: 10px;
+  }
+
+  main ul.champion-list {
+      list-style-type: none;
+      margin: 0 0 0 10%;
+      padding: 0;
+  }
+
+  .carousel {
+      position: relative;
+      box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
+      margin-top: 26px;
+      width: 99%;
+      left: 0;
+      top: -26px;
+      border-radius: 5px;
+      background-color: lightblue;
+      border-top: 2px solid lightblue;
+      margin-bottom: 40px;
+    }
+
+  .carousel-indicators {
+    list-style: none;
     margin: 0;
     padding: 0;
-}
+    position: absolute;
+    top: 0%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 10;
+  }
 
-.races-info-container article::after {
-  display: none;
-
-}
-
-
-
-#races-languages {
-    height: 81px;
-    display: block;
-    margin: 0 auto;
 }
 
 
-#animated-champion {
-    position: fixed;
-    width: auto;
-    height: 15%;
-    top: 17%;
-    left: 89%;
-    z-index: 2;
+
+@media screen and (max-width : 425px){
+  nav {
+    font-size: 270%;
+  }
+
+  nav ul li {
+    padding: 3% 0;
+  }
 }
 
-.champion-list li {
-    width: 33%;
-    margin: 10px;
-}
 
-    main ul.champion-list {
-        list-style-type: none;
-        margin: 0 0 0 10%;
-        padding: 0;
-    }
 
-    .carousel {
-        position: relative;
-        box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
-        margin-top: 26px;
-        width: 99%;
-        left: 0;
-        top: -26px;
-        /* border: 2px solid lightblue; */
-        border-radius: 5px;
-        background-color: lightblue;
-        border-top: 2px solid lightblue;
-        margin-bottom: 20%;
-      }
-
-    }
 
 /* Laptop */
