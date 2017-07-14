@@ -14,6 +14,7 @@
 .races-info-container {
     overflow: hidden;
     margin-bottom: 40px;
+    margin-top: 10%;
 }
 
 .races-info-container div.box{
@@ -62,6 +63,24 @@
 #races-languages {
     height: 120px;
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 5% auto;
+
 }
 
+
+#races-languages {
+    position: absolute;
+    left: -58%;
+    -webkit-animation: slide 0.5s forwards;
+    -webkit-animation-delay: 2s;
+    animation: slide 4s forwards;
+    animation-delay: 0.1s;
+}
+
+@-webkit-keyframes slide {
+    100% { left: 20%; }
+}
+
+@keyframes slide {
+    100% { left: 20%; }
+}
