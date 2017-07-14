@@ -1,4 +1,12 @@
+@media screen and (max-width : 425px){
+  nav {
+    font-size: 270%;
+  }
 
+  nav ul li {
+    padding: 3% 0;
+  }
+}
 
 
 
@@ -194,15 +202,7 @@
 
 
 
-@media screen and (max-width : 425px){
-  nav {
-    font-size: 270%;
-  }
 
-  nav ul li {
-    padding: 3% 0;
-  }
-}
 
 
 
