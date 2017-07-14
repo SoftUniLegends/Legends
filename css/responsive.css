@@ -188,6 +188,9 @@
     z-index: 10;
   }
 
+
+
+
   .carousel-text {
     font-size: 110%;
   }
@@ -199,6 +202,13 @@
   @keyframes slide {
       100% {left: 5%;}
   }
+
+  .champ-detail-info p {
+      text-align: justify;
+      font-size: 192%;
+  }
+
+
 
 }
 
@@ -226,7 +236,10 @@
 
 }
 
-
+.champ-detail-info p {
+    text-align: justify;
+    font-size: 192%;
+}
 
 
 
