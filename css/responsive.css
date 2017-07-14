@@ -132,11 +132,31 @@ footer div {
   }
 
 
+  .races-img {
+    display: none;
+  }
 
+  .races-info-container div.box.text {
+    width: 100%;
+}
 
+.races-info-container div.box {
+    margin: 0;
+    padding: 0;
+}
+
+.races-info-container article::after {
+  display: none;
 
 }
 
+
+
+#races-languages {
+    height: 81px;
+    display: block;
+    margin: 0 auto;
+}
 
 
 /* Laptop */
