@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9f14af-b329-49d0-9d5c-85f9395b99e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions.html" afterPath="$PROJECT_DIR$/champions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/alisa.html" afterPath="$PROJECT_DIR$/champions/alisa.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/angel.html" afterPath="$PROJECT_DIR$/champions/angel.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/boryana.html" afterPath="$PROJECT_DIR$/champions/boryana.html" />
@@ -19,8 +19,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/nikolay.html" afterPath="$PROJECT_DIR$/champions/nikolay.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/simeon.html" afterPath="$PROJECT_DIR$/champions/simeon.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/simona.html" afterPath="$PROJECT_DIR$/champions/simona.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/champions.css" afterPath="$PROJECT_DIR$/css/champions.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,21 +33,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="champions.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/champions.css">
+      <file leaf-file-name="champions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/champions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ivaylo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/champions/ivaylo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="50" column="18" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="50" selection-end-column="18" />
+            <state relative-caret-position="279">
+              <caret line="39" column="74" lean-forward="true" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -58,8 +46,8 @@
       <file leaf-file-name="jicata.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/jicata.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="194">
+              <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -68,8 +56,8 @@
       <file leaf-file-name="kenov.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/kenov.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            <state relative-caret-position="134">
+              <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -78,8 +66,8 @@
       <file leaf-file-name="maria.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/maria.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="54" column="18" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="54" selection-end-column="18" />
+            <state relative-caret-position="92">
+              <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -88,8 +76,8 @@
       <file leaf-file-name="nakov.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/nakov.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="49" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -98,8 +86,8 @@
       <file leaf-file-name="nikolay.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/nikolay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="54" column="18" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="54" selection-end-column="18" />
+            <state relative-caret-position="126">
+              <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -108,8 +96,8 @@
       <file leaf-file-name="simeon.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/simeon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="49" column="18" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="49" selection-end-column="18" />
+            <state relative-caret-position="211">
+              <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -118,18 +106,28 @@
       <file leaf-file-name="simona.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/simona.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+            <state relative-caret-position="75">
+              <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file leaf-file-name="angel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/champions/angel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="225" column="25" lean-forward="true" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
+            <state relative-caret-position="109">
+              <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alisa.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/champions/alisa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -152,7 +150,6 @@
       <find>ivay</find>
       <find>vik</find>
       <find>maria</find>
-      <find>maria</find>
       <find>nako</find>
       <find>nik</find>
       <find>sime</find>
@@ -165,6 +162,7 @@
       <find>alisa</find>
       <find>simo</find>
       <find>bory</find>
+      <find>ange</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,11 +178,10 @@
         <option value="$PROJECT_DIR$/battlefields.html" />
         <option value="$PROJECT_DIR$/champion-alisa.html" />
         <option value="$PROJECT_DIR$/champions-list.txt" />
-        <option value="$PROJECT_DIR$/champions.html" />
-        <option value="$PROJECT_DIR$/champions/alisa.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/champions.css" />
+        <option value="$PROJECT_DIR$/champions/alisa.html" />
         <option value="$PROJECT_DIR$/champions/boryana.html" />
-        <option value="$PROJECT_DIR$/champions/angel.html" />
         <option value="$PROJECT_DIR$/champions/bozhidar.html" />
         <option value="$PROJECT_DIR$/champions/christian.html" />
         <option value="$PROJECT_DIR$/champions/gabriela.html" />
@@ -198,7 +195,8 @@
         <option value="$PROJECT_DIR$/champions/nikolay.html" />
         <option value="$PROJECT_DIR$/champions/simeon.html" />
         <option value="$PROJECT_DIR$/champions/simona.html" />
-        <option value="$PROJECT_DIR$/css/champions.css" />
+        <option value="$PROJECT_DIR$/champions.html" />
+        <option value="$PROJECT_DIR$/champions/angel.html" />
       </list>
     </option>
   </component>
@@ -393,12 +391,12 @@
       <workItem from="1499760743460" duration="11112000" />
       <workItem from="1499846615652" duration="22199000" />
       <workItem from="1499934871926" duration="15890000" />
-      <workItem from="1500020296315" duration="19459000" />
+      <workItem from="1500020296315" duration="20614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68660000" />
+    <option name="totallyTimeSpent" value="69815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="1" width="1516" height="898" extended-state="0" />
@@ -633,14 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/champions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="173" column="17" lean-forward="true" selection-start-line="173" selection-start-column="17" selection-end-line="173" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/races.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -649,138 +639,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/champions/boryana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="53" column="93" lean-forward="true" selection-start-line="53" selection-start-column="93" selection-end-line="53" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/bozhidar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/angel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/alisa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="33" column="70" lean-forward="true" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/christian.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="56" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/gabriela.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="59" column="18" lean-forward="true" selection-start-line="52" selection-start-column="12" selection-end-line="59" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/ivan-ivanov.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="57" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/ivan-yonkov.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="55" column="18" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="55" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/ivaylo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="50" column="18" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="50" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/jicata.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/kenov.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/maria.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="54" column="18" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="54" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/nakov.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="49" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/nikolay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="54" column="18" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="54" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/simeon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="49" column="18" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="49" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions/simona.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
-          <caret line="225" column="25" lean-forward="true" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
+          <caret line="225" column="25" lean-forward="false" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -788,7 +650,143 @@
     <entry file="file://$PROJECT_DIR$/css/champions.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/boryana.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/bozhidar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/christian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/gabriela.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/ivan-ivanov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/ivan-yonkov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/ivaylo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/jicata.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/kenov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/maria.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/nakov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/nikolay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/simeon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/simona.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="39" column="74" lean-forward="true" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/alisa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions/angel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
           <folding />
         </state>
       </provider>
