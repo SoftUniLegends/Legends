@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9f14af-b329-49d0-9d5c-85f9395b99e6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/champions-img/avatars/angel-georgiev.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions.html" afterPath="$PROJECT_DIR$/champions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/alisa.html" afterPath="$PROJECT_DIR$/champions/alisa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/angel.html" afterPath="$PROJECT_DIR$/champions/angel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/boryana.html" afterPath="$PROJECT_DIR$/champions/boryana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/bozhidar.html" afterPath="$PROJECT_DIR$/champions/bozhidar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/christian.html" afterPath="$PROJECT_DIR$/champions/christian.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/gabriela.html" afterPath="$PROJECT_DIR$/champions/gabriela.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/ivan-ivanov.html" afterPath="$PROJECT_DIR$/champions/ivan-ivanov.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/ivan-yonkov.html" afterPath="$PROJECT_DIR$/champions/ivan-yonkov.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/ivaylo.html" afterPath="$PROJECT_DIR$/champions/ivaylo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/jicata.html" afterPath="$PROJECT_DIR$/champions/jicata.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/kenov.html" afterPath="$PROJECT_DIR$/champions/kenov.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/maria.html" afterPath="$PROJECT_DIR$/champions/maria.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/nakov.html" afterPath="$PROJECT_DIR$/champions/nakov.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/nikolay.html" afterPath="$PROJECT_DIR$/champions/nikolay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/simeon.html" afterPath="$PROJECT_DIR$/champions/simeon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/champions/simona.html" afterPath="$PROJECT_DIR$/champions/simona.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="champions.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="champions.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/champions.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="279">
-              <caret line="39" column="74" lean-forward="true" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+              <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -107,17 +93,17 @@
         <entry file="file://$PROJECT_DIR$/champions/simona.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+              <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="angel.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="angel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/champions/angel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+            <state relative-caret-position="279">
+              <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -127,8 +113,22 @@
         <entry file="file://$PROJECT_DIR$/champions/alisa.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-              <folding />
+              <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+              <folding>
+                <marker date="1500048640108" expanded="true" signature="644:713" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="644:697" ph="{...}" />
+                <marker date="1500048640108" expanded="true" signature="736:3118" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="780:1313" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="826:1298" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="1351:3105" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="1457:1738" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="1782:2696" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="1802:2189" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="2209:2677" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="2737:3086" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="2787:2903" ph="..." />
+                <marker date="1500048640108" expanded="true" signature="2953:3067" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,8 +195,8 @@
         <option value="$PROJECT_DIR$/champions/nikolay.html" />
         <option value="$PROJECT_DIR$/champions/simeon.html" />
         <option value="$PROJECT_DIR$/champions/simona.html" />
-        <option value="$PROJECT_DIR$/champions.html" />
         <option value="$PROJECT_DIR$/champions/angel.html" />
+        <option value="$PROJECT_DIR$/champions.html" />
       </list>
     </option>
   </component>
@@ -236,48 +236,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SoftuniLegends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftuniLegends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftuniLegends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftuniLegends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftuniLegends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="champions-img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftuniLegends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftuniLegends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="champions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -391,18 +349,17 @@
       <workItem from="1499760743460" duration="11112000" />
       <workItem from="1499846615652" duration="22199000" />
       <workItem from="1499934871926" duration="15890000" />
-      <workItem from="1500020296315" duration="20614000" />
+      <workItem from="1500020296315" duration="21892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69815000" />
+    <option name="totallyTimeSpent" value="71093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="1" width="1516" height="898" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22395128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22395128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -762,15 +719,7 @@
     <entry file="file://$PROJECT_DIR$/champions/simona.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/champions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="39" column="74" lean-forward="true" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+          <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
           <folding />
         </state>
       </provider>
@@ -778,15 +727,37 @@
     <entry file="file://$PROJECT_DIR$/champions/alisa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-          <folding />
+          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding>
+            <marker date="1500048640108" expanded="true" signature="644:713" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="644:697" ph="{...}" />
+            <marker date="1500048640108" expanded="true" signature="736:3118" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="780:1313" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="826:1298" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="1351:3105" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="1457:1738" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="1782:2696" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="1802:2189" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="2209:2677" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="2737:3086" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="2787:2903" ph="..." />
+            <marker date="1500048640108" expanded="true" signature="2953:3067" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/champions/angel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+        <state relative-caret-position="279">
+          <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="58" />
           <folding />
         </state>
       </provider>
