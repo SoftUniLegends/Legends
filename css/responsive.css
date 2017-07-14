@@ -15,11 +15,92 @@
 
 
 /* Portrait and Landscape */
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 780px) {
 
-  img {
+  html {
+
+  }
+
+  body {
+    width: 100%;
+  }
+
+  main {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: static;
+    border-left: 0px;
+    border-right: 0px;
+  }
+
+  li a.nav {
+    display: block;
+    width: 100%;
+  }
+
+  img#header-bg, img.right, img#languages-vertical {
     display: none;
   }
+
+
+
+  nav {
+      position:static;
+
+  }
+
+  ul {
+      list-style-type:none;
+      margin:0;
+      padding:0;
+
+  }
+
+  nav ul li {
+      display:block;
+      margin: 0;
+      width: 100%;
+      background: #1e7096; /* Old browsers */
+background: -moz-linear-gradient(top, #1e7096 0%, #163870 11%, #163870 11%, #163870 11%, #0a2b44 18%, #14486b 72%, #163870 92%, #196c96 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #1e7096 0%,#163870 11%,#163870 11%,#163870 11%,#0a2b44 18%,#14486b 72%,#163870 92%,#196c96 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #1e7096 0%,#163870 11%,#163870 11%,#163870 11%,#0a2b44 18%,#14486b 72%,#163870 92%,#196c96 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e7096', endColorstr='#196c96',GradientType=0 ); /* IE6-9 */
+copy
+  }
+
+  li a.nav {
+      display:block;
+      height: 50px;
+      text-align: center;
+      line-height: 50px;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      text-decoration: none;
+      color: lightblue;
+
+  }
+
+  li:hover a.nav {
+    background: #0a2b44; /* Old browsers */
+    background: -moz-linear-gradient(top, #0a2b44 0%, #163870 11%, #163870 11%, #196c96 28%, #196c96 68%, #196c96 73%, #14486b 89%, #163870 99%, #163870 99%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #0a2b44 0%,#163870 11%,#163870 11%,#196c96 28%,#196c96 68%,#196c96 73%,#14486b 89%,#163870 99%,#163870 99%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #0a2b44 0%,#163870 11%,#163870 11%,#196c96 28%,#196c96 68%,#196c96 73%,#14486b 89%,#163870 99%,#163870 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a2b44', endColorstr='#163870',GradientType=0 ); /* IE6-9 */
+
+     background-repeat: no-repeat;
+    background-position: center;
+  }
+
+
+  footer {
+    display: none;
+  }
+
+
+
+
+
+
 
 }
 
