@@ -220,6 +220,9 @@
       100% {left: -1.5%;}
   }
 
+    nav.nav-champ-nav-details {
+        font-size: 120%;
+    }
 
 }
 
