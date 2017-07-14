@@ -208,7 +208,9 @@
       font-size: 192%;
   }
 
-
+  li.li-champ-nav-details a {
+    color: lightblue;
+  }
 
 }
 
@@ -216,6 +218,7 @@
 @media screen and (max-width : 430px){
   nav {
     font-size: 130%;
+    color: lightblue;
   }
 
   nav ul li {
@@ -234,15 +237,18 @@
         font-size: 120%;
     }
 
+    .champ-detail-info p {
+        text-align: justify;
+        font-size: 192%;
+    }
+
+  li.li-champ-nav-details a {
+    color: lightblue;
+  }
+
+
+
 }
-
-.champ-detail-info p {
-    text-align: justify;
-    font-size: 192%;
-}
-
-
-
 
 
 
