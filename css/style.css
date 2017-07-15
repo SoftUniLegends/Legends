@@ -95,6 +95,7 @@ hr {
     left: 100px;
     width: 200px;
     z-index: 1;
+    transition: opacity 400ms;
 }
 
 #languages-vertical:hover {
